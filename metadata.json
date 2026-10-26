@@ -1,0 +1,6 @@
+{
+  "name": "ColdStore Diagnostics",
+  "description": "Root-cause diagnosis dashboard for temperature excursions in table-potato cold storage using in-browser gradient boosted trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
